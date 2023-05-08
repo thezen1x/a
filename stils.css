@@ -144,7 +144,8 @@
 .main3p {
   font-family: 'Raleway', sans-serif;
   position: absolute;
-  color: rgb(255, 255, 255)
+  color: rgb(255, 255, 255);
+  size: 25px;
 }
   .main3img img{
     margin-top:-30pt;
